@@ -12,6 +12,6 @@ This section introduces how to monitor a TiKV cluster.
 - [Monitor Framework](../framework)
 - [Monitor API](../api)
 - [Deploy Monitoring Services](../deploy)
-- [Export Grafana Shapshots](../grafana)
+- [Export Grafana Snapshots](../grafana)
 - [Key Metrics](../key-metrics)
 - [TiKV Cluster Alert Rules](../alert)
